@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DESAFIO_BACKEND_MODULO_03_B2B_IFOOD_007
 
 ![](https://i.imgur.com/xG74tOh.png)
@@ -780,3 +781,6 @@ Link do deploy da API somente para testes: [ link](https://desafio-backend-03-di
 **LEMBRE-SE**: Feito é melhor que perfeito!!!
 
 ###### tags: `back-end` `módulo 3` `nodeJS` `PostgreSQL` `API REST` `desafio`
+=======
+# DESAFIO_BACKEND_MODULO_03_SISTEMA_DINDIN_B2B_IFOOD_007
+>>>>>>> a8d1497eff16a538ab963e1aebfd0f4fb55b00be
