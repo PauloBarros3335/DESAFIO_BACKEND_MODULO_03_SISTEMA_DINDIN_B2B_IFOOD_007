@@ -1,0 +1,29 @@
+{
+  "name": "desafio_backend_modulo_03_sistema_dindin_b2b_ifood_007",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloBarros3335/DESAFIO_BACKEND_MODULO_03_B2B_IFOOD_007.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloBarros3335/DESAFIO_BACKEND_MODULO_03_B2B_IFOOD_007/issues"
+  },
+  "homepage": "https://github.com/PauloBarros3335/DESAFIO_BACKEND_MODULO_03_B2B_IFOOD_007#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.3"
+  }
+}
